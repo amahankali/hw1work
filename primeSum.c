@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//problem 10
+//Project Euler - problem 10
 //0 = false, n = true
 int isPrime (int n)
 {
