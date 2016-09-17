@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Project Euler - Problem 9
 int main () {
 
 	//a + b + c = 1000
